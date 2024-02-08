@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Gabrielle de Sousa! 😁
+## Bem-vindo(a) ao perfil da Gabrielle de Sousa! 
 
  <div>
    <a href="https://github.com/GabrielleSoousa">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra me contatar, utilize algum dos caminhos abaixo
+### Pra me contatar, utilize um dos caminhos abaixo
 <div> 
   <a href = "mailto:gabrielle.sousa99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielle-silva-562251169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
